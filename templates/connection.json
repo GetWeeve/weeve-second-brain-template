@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "source": "replace-with-service-name",
+  "mode": "file-import",
+  "official_setup_url": "",
+  "owner": "",
+  "resource_scope": [],
+  "read_capabilities": [],
+  "credential_reference_name": "",
+  "allowed_processors": [],
+  "classification": "restricted",
+  "last_verified_at": null,
+  "coverage_window": null,
+  "coverage_complete": false,
+  "retention_policy": "",
+  "notes": "Store the completed record privately. Configure and enforce actual authentication and tool permissions in your host."
+}

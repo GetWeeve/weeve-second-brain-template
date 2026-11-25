@@ -1,0 +1,8 @@
+# Fictional team experiment
+Date window: 2026-11-02 to 2026-11-08. Synthetic aggregate.
+# Activation
+The baseline group had 20 activated accounts among 100 registered accounts. The new onboarding group had 30 among 100.
+# Definition and limitation
+Activation means completing the first project within seven days. Groups were not randomized. The difference is observational and does not establish causality.
+# Decision
+Investigate cohort differences and support feedback before recommending a wider rollout. Delivery owner and budget remain unassigned.

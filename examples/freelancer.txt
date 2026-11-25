@@ -1,0 +1,8 @@
+# Fictional freelance design project
+Date window: 2026-11-02 to 2026-11-08. Synthetic material.
+# Delivery
+The owner delivered two approved mockups. A third mockup awaits feedback.
+# Scope exception
+The client's proposed extra landing page has no agreed price or deadline. It is a scope request and should stay out of committed delivery totals.
+# Next check
+Ask the project owner to agree the scope and acceptance criteria before adding the page to next week's plan.

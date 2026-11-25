@@ -1,0 +1,45 @@
+# Company instances and generated evidence
+workspace/
+workspaces/
+raw/
+raw-local/
+wiki/
+reviews/
+memory/
+outputs/
+output/
+.pageindex/
+graphify-out/
+.brain/
+.worktrees/
+# Local secrets and host connection configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*credentials*.json
+*token*.json
+.mcp.json
+.mcp.*.json
+.codex/
+.claude/settings.local.json
+.gemini/settings.json
+opencode.json
+# Derived indexes, archives, media and execution output
+*.sqlite*
+*.db
+*.log
+*.zip
+*.tar*
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mov
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
